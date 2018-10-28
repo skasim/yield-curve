@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  notebook:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - "/path/to/repo/yield_curve:/opt/yield"
