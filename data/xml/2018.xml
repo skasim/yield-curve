@@ -2,12 +2,12 @@
 <feed xml:base="http://data.treasury.gov/Feed.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
   <title type="text">DailyTreasuryYieldCurveRateData</title>
   <id>http://data.treasury.gov/feed.svc/DailyTreasuryYieldCurveRateData</id>
-  <updated>2018-10-24T20:36:57Z</updated>
+  <updated>2018-11-23T20:24:37Z</updated>
   <link rel="self" title="DailyTreasuryYieldCurveRateData" href="DailyTreasuryYieldCurveRateData" />
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7009)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -36,7 +36,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7010)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -65,7 +65,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7011)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -94,7 +94,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7012)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -123,7 +123,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7013)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -152,7 +152,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7014)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -181,7 +181,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7015)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -210,7 +210,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7016)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -239,7 +239,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7017)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -268,7 +268,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7018)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -297,7 +297,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7019)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -326,7 +326,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7020)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -355,7 +355,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7021)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -384,7 +384,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7022)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -413,7 +413,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7023)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -442,7 +442,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7024)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -471,7 +471,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7025)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -500,7 +500,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7026)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -529,7 +529,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7027)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -558,7 +558,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7028)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -587,7 +587,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7029)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -616,7 +616,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7030)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -645,7 +645,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7031)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -674,7 +674,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7032)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -703,7 +703,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7033)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -732,7 +732,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7034)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -761,7 +761,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7035)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -790,7 +790,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7036)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -819,7 +819,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7037)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -848,7 +848,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7038)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -877,7 +877,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7039)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -906,7 +906,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7040)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -935,7 +935,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7041)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -964,7 +964,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7042)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -993,7 +993,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7043)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1022,7 +1022,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7044)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1051,7 +1051,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7045)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1080,7 +1080,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7046)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1109,7 +1109,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7047)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1138,7 +1138,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7048)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1167,7 +1167,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7049)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1196,7 +1196,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7050)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1225,7 +1225,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7051)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1254,7 +1254,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7052)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1283,7 +1283,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7053)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1312,7 +1312,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7054)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1341,7 +1341,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7055)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1370,7 +1370,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7056)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1399,7 +1399,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7057)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1428,7 +1428,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7058)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1457,7 +1457,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7059)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1486,7 +1486,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7060)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1515,7 +1515,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7061)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1544,7 +1544,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7062)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1573,7 +1573,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7063)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1602,7 +1602,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7064)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1631,7 +1631,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7065)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1660,7 +1660,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7066)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1689,7 +1689,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7067)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1718,7 +1718,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7068)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1747,7 +1747,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7069)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1776,7 +1776,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7070)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1805,7 +1805,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7071)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1834,7 +1834,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7072)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1863,7 +1863,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7073)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1892,7 +1892,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7074)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1921,7 +1921,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7075)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1950,7 +1950,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7076)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -1979,7 +1979,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7077)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2008,7 +2008,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7078)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2037,7 +2037,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7079)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2066,7 +2066,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7080)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2095,7 +2095,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7081)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2124,7 +2124,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7082)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2153,7 +2153,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7083)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2182,7 +2182,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7084)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2211,7 +2211,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7085)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2240,7 +2240,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7086)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2269,7 +2269,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7087)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2298,7 +2298,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7088)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2327,7 +2327,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7089)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2356,7 +2356,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7090)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2385,7 +2385,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7091)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2414,7 +2414,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7092)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2443,7 +2443,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7093)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2472,7 +2472,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7094)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2501,7 +2501,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7095)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2530,7 +2530,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7096)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2559,7 +2559,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7097)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2588,7 +2588,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7098)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2617,7 +2617,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7099)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2646,7 +2646,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7100)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2675,7 +2675,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7101)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2704,7 +2704,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7102)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2733,7 +2733,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7103)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2762,7 +2762,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7104)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2791,7 +2791,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7105)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2820,7 +2820,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7106)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2849,7 +2849,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7107)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2878,7 +2878,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7108)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2907,7 +2907,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7109)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2936,7 +2936,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7110)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2965,7 +2965,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7111)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -2994,7 +2994,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7112)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3023,7 +3023,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7113)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3052,7 +3052,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7114)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3081,7 +3081,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7115)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3110,7 +3110,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7116)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3139,7 +3139,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7117)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3168,7 +3168,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7118)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3197,7 +3197,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7119)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3226,7 +3226,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7120)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3255,7 +3255,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7121)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3284,7 +3284,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7122)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3313,7 +3313,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7123)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3342,7 +3342,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7124)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3371,7 +3371,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7125)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3400,7 +3400,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7126)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3429,7 +3429,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7127)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3458,7 +3458,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7128)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3487,7 +3487,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7129)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3516,7 +3516,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7130)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3545,7 +3545,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7131)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3574,7 +3574,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7132)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3603,7 +3603,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7133)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3632,7 +3632,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7134)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3661,7 +3661,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7135)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3690,7 +3690,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7136)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3719,7 +3719,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7137)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3748,7 +3748,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7138)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3777,7 +3777,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7139)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3806,7 +3806,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7140)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3835,7 +3835,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7141)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3864,7 +3864,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7142)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3893,7 +3893,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7143)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3922,7 +3922,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7144)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3951,7 +3951,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7145)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -3980,7 +3980,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7146)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4009,7 +4009,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7147)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4038,7 +4038,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7148)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4067,7 +4067,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7149)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4096,7 +4096,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7150)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4125,7 +4125,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7151)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4154,7 +4154,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7152)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4183,7 +4183,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7153)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4212,7 +4212,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7154)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4241,7 +4241,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7155)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4270,7 +4270,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7156)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4299,7 +4299,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7157)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4328,7 +4328,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7158)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4357,7 +4357,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7159)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4386,7 +4386,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7160)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4415,7 +4415,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7161)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4444,7 +4444,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7162)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4473,7 +4473,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7163)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4502,7 +4502,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7164)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4531,7 +4531,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7165)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4560,7 +4560,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7166)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4589,7 +4589,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7167)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4618,7 +4618,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7168)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4647,7 +4647,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7169)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4676,7 +4676,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7170)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4705,7 +4705,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7171)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4734,7 +4734,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7172)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4763,7 +4763,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7173)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4792,7 +4792,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7174)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4821,7 +4821,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7175)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4850,7 +4850,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7176)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4879,7 +4879,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7177)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4908,7 +4908,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7178)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4937,7 +4937,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7179)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4966,7 +4966,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7180)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -4995,7 +4995,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7181)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5024,7 +5024,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7182)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5053,7 +5053,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7183)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5082,7 +5082,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7184)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5111,7 +5111,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7185)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5140,7 +5140,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7186)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5169,7 +5169,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7187)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5198,7 +5198,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7188)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5227,7 +5227,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7189)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5256,7 +5256,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7190)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5285,7 +5285,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7191)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5314,7 +5314,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7192)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5343,7 +5343,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7193)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5372,7 +5372,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7194)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5401,7 +5401,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7195)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5430,7 +5430,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7196)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5459,7 +5459,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7197)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5488,7 +5488,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7198)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5517,7 +5517,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7199)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5546,7 +5546,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7200)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5575,7 +5575,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7201)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5604,7 +5604,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7202)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5633,7 +5633,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7203)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5662,7 +5662,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7204)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5691,7 +5691,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7205)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5720,7 +5720,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7206)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5749,7 +5749,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7207)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5778,7 +5778,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7208)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5807,7 +5807,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7209)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5836,7 +5836,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7210)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5865,7 +5865,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7211)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5894,7 +5894,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7212)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5923,7 +5923,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7213)</id>
     <title type="text"></title>
-    <updated>2018-10-24T20:36:57Z</updated>
+    <updated>2018-11-23T20:24:37Z</updated>
     <author>
       <name />
     </author>
@@ -5946,6 +5946,586 @@
         <d:BC_20YEAR m:type="Edm.Double">3.24</d:BC_20YEAR>
         <d:BC_30YEAR m:type="Edm.Double">3.33</d:BC_30YEAR>
         <d:BC_30YEARDISPLAY m:type="Edm.Double">3.33</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7214)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7214)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7214</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-10-25T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.19</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.24</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.34</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.47</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.66</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.86</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.92</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.98</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.07</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.14</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.27</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.35</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.35</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7215)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7215)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7215</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-10-26T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.16</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.21</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.33</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.47</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.63</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.81</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.85</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.91</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.08</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.23</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.32</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.32</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7216)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7216)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7216</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-10-29T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.17</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.21</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.34</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.49</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.64</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.81</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.86</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.91</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.08</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.23</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.33</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.33</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7217)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7217)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7217</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-10-30T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.21</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.26</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.33</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.48</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.66</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.84</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.9</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.94</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.03</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.12</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.26</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.36</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.36</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7218)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7218)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7218</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-10-31T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.2</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.26</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.34</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.49</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.69</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.87</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.93</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.98</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.07</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.15</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.3</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.39</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.39</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7219)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7219)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7219</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-01T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.21</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.28</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.32</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.49</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.67</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.84</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.91</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.96</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.06</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.14</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.29</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.38</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.38</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7220)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7220)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7220</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-02T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.19</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.28</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.33</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.5</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.7</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.91</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.98</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">3.04</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.13</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.22</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.37</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.46</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.46</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7221)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7221)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7221</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-05T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.2</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.29</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.36</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.51</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.71</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.91</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.99</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">3.03</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.12</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.2</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.34</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.43</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.43</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7222)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7222)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7222</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-06T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.23</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.29</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.35</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.52</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.72</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.93</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">3.01</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">3.05</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.14</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.22</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.35</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.43</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.43</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7223)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7223)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7223</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-07T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.23</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.29</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.37</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.51</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.74</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.96</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">3.03</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">3.07</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.15</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.22</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.35</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.43</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.43</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7224)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7224)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7224</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-08T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.21</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.29</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.35</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.52</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.74</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.98</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">3.05</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">3.09</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.17</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.24</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.36</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.43</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.43</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7225)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7225)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7225</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-09T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.21</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.3</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.36</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.52</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.73</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.94</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">3.01</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">3.05</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.13</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.19</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.32</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.4</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.4</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7226)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7226)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7226</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-13T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.24</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.32</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.38</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.53</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.72</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.89</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.95</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.99</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.07</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.14</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.28</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.36</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.36</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7227)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7227)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7227</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-14T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.24</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.33</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.38</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.52</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.71</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.86</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.92</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.95</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.04</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.12</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.26</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.35</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.35</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7228)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7228)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7228</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-15T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.2</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.32</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.37</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.51</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.7</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.86</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.91</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.94</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">3.02</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.11</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.27</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.36</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.36</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7229)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7229)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7229</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-16T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.21</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.31</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.36</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.5</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.68</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.81</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.85</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.9</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">2.99</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.08</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.23</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.33</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.33</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7230)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7230)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7230</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-19T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.23</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.32</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.38</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.52</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.66</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.79</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.82</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.87</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">2.97</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.06</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.22</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.32</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.32</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7231)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7231)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7231</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-20T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.23</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.35</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.39</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.51</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.67</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.79</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.83</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.88</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">2.97</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.06</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.22</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.31</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.31</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7232)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7232)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7232</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-21T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.25</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.34</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.41</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.52</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.67</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.81</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.84</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.89</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">2.98</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.06</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.22</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.31</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.31</d:BC_30YEARDISPLAY>
+      </m:properties>
+    </content>
+  </entry>
+  <entry>
+    <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7233)</id>
+    <title type="text"></title>
+    <updated>2018-11-23T20:24:37Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="DailyTreasuryYieldCurveRateDatum" href="DailyTreasuryYieldCurveRateData(7233)" />
+    <category term="TreasuryDataWarehouseModel.DailyTreasuryYieldCurveRateDatum" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:Id m:type="Edm.Int32">7233</d:Id>
+        <d:NEW_DATE m:type="Edm.DateTime">2018-11-23T00:00:00</d:NEW_DATE>
+        <d:BC_1MONTH m:type="Edm.Double">2.25</d:BC_1MONTH>
+        <d:BC_2MONTH m:type="Edm.Double">2.35</d:BC_2MONTH>
+        <d:BC_3MONTH m:type="Edm.Double">2.41</d:BC_3MONTH>
+        <d:BC_6MONTH m:type="Edm.Double">2.52</d:BC_6MONTH>
+        <d:BC_1YEAR m:type="Edm.Double">2.67</d:BC_1YEAR>
+        <d:BC_2YEAR m:type="Edm.Double">2.81</d:BC_2YEAR>
+        <d:BC_3YEAR m:type="Edm.Double">2.83</d:BC_3YEAR>
+        <d:BC_5YEAR m:type="Edm.Double">2.88</d:BC_5YEAR>
+        <d:BC_7YEAR m:type="Edm.Double">2.97</d:BC_7YEAR>
+        <d:BC_10YEAR m:type="Edm.Double">3.05</d:BC_10YEAR>
+        <d:BC_20YEAR m:type="Edm.Double">3.21</d:BC_20YEAR>
+        <d:BC_30YEAR m:type="Edm.Double">3.31</d:BC_30YEAR>
+        <d:BC_30YEARDISPLAY m:type="Edm.Double">3.31</d:BC_30YEARDISPLAY>
       </m:properties>
     </content>
   </entry>
