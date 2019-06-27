@@ -6,4 +6,4 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - "/path/to/repo:/opt/yield"
+      - "~/Projects/yield-curve:/opt/yield"

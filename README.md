@@ -13,7 +13,7 @@ curve rates between 1990 and present are from the [U.S. Department of the Treasu
     $ docker-compose build
     $ docker-compose up
     ```
-You can access the project at `http://localhost:8888/notebooks/yield%20curve.ipynb` and you'll need to provide a token that appears in the docker logs. To bring down the project, run `$docker-compose down` and to destroy the containers, run `$ docker-compose kill`.
+You can access the project at `http://localhost:8888/notebooks/yield%20curve.ipynb` and you'll need to provide a token that appears in the docker logs. To bring down the project, run `$ docker-compose down` and to destroy the containers, run `$ docker-compose kill`.
 
 ## Forecasting a Recession
 A deeper dive into [U.S. Department of the Treasury](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yield) Yield Curve data and it's predictive capaiblities.
@@ -32,5 +32,6 @@ In my analysis, an Inverted Yield Curve occurs when the ratio of long-term bond 
 
 
 ### Yield Curve Ratios for 2018
-![Yield Curve Ratios for 2018](/images/ycr_2018.png?raw=true)
+The ratio of 10 year bonds/6 month bonds inverted in Spring 2019
+![Yield Curve Ratios for 2018](/images/ycr_2018_2019.png?raw=true)
 
