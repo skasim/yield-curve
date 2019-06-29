@@ -20,7 +20,7 @@ A deeper dive into [U.S. Department of the Treasury](https://www.treasury.gov/re
 
 In an efficiently performing market, long-term bonds have higher bond yield rates than shorter-term bonds, T-notes, and T-bills as the market expects greater risk in investing in long-term bonds (a lot can happen in 30 years). However, when the yield curve inverts, the bond yield rates for shorter-term bonds are higher than long-term bond yield rates. An Inverted Yield Curve is used as one predictor of a recession as it captures the nervousness of investors about the near term market outlook.
 
-In my analysis, an Inverted Yield Curve occurs when the ratio of long-term bond rates (i.e. 30 years, 10 years) versus short-term bonds(6 months, 1 year, 10 years) is between 0 and 1. The yield curve last inverted between 2006 and 2007.
+In my analysis, an Inverted Yield Curve occurs when the ratio of long-term bond rates (i.e. 30 years, 10 years) versus short-term bonds (6 months, 1 year, 3 years, etc.) is between 0 and 1. The yield curve last inverted between 2006 and 2007.
 
 ### Yield Curve Ratios for Years 1990 to Present
 ![Yield Curve Ratios for Years 1990 to Present](/images/ycr_all.png?raw=true)
