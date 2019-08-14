@@ -32,5 +32,5 @@ In my analysis, an Inverted Yield Curve occurs when the ratio of long-term bond 
 
 ### Yield Curve Ratios for 2019
 The ratio of 10 year bonds/6 month bonds  and 10 year/1 year bonds inverted in May 2019
-![Yield Curve Ratios for 2018](/images/ycr_2019.png?raw=true)
+![Yield Curve Ratios for 2019](/images/ycr_2019.png?raw=true)
 
