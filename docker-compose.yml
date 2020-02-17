@@ -6,4 +6,4 @@ services:
     ports:
       - "8888:8888"
     volumes:
-      - "~/Projects/EuclidLLC/yield-curve:/opt/yield"
+      - "~/Projects/Euclid/yield-curve:/opt/yield"
