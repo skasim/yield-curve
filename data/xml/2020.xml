@@ -2,12 +2,12 @@
 <feed xml:base="http://data.treasury.gov/Feed.svc/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
   <title type="text">DailyTreasuryYieldCurveRateData</title>
   <id>http://data.treasury.gov/feed.svc/DailyTreasuryYieldCurveRateData</id>
-  <updated>2020-02-19T21:35:19Z</updated>
+  <updated>2020-02-20T15:44:01Z</updated>
   <link rel="self" title="DailyTreasuryYieldCurveRateData" href="DailyTreasuryYieldCurveRateData" />
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7508)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -36,7 +36,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7509)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -65,7 +65,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7510)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -94,7 +94,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7511)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -123,7 +123,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7512)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -152,7 +152,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7513)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -181,7 +181,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7514)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -210,7 +210,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7515)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -239,7 +239,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7516)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -268,7 +268,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7517)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -297,7 +297,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7518)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -326,7 +326,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7519)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -355,7 +355,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7520)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -384,7 +384,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7521)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -413,7 +413,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7522)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -442,7 +442,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7523)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -471,7 +471,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7524)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -500,7 +500,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7525)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -529,7 +529,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7526)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -558,7 +558,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7527)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -587,7 +587,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7528)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -616,7 +616,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7529)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -645,7 +645,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7530)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -674,7 +674,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7531)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -703,7 +703,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7532)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -732,7 +732,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7533)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -761,7 +761,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7534)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -790,7 +790,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7535)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -819,7 +819,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7536)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -848,7 +848,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7537)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -877,7 +877,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7538)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -906,7 +906,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7539)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
@@ -935,7 +935,7 @@
   <entry>
     <id>http://data.treasury.gov/Feed.svc/DailyTreasuryYieldCurveRateData(7540)</id>
     <title type="text"></title>
-    <updated>2020-02-19T21:35:19Z</updated>
+    <updated>2020-02-20T15:44:01Z</updated>
     <author>
       <name />
     </author>
